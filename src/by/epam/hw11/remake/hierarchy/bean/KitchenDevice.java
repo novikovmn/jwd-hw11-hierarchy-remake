@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public abstract class KitchenDevice extends ElectricalAppliance {
 
-	public boolean timerManagment;
+	private boolean timerManagment;
 
 	public KitchenDevice() {
 	}

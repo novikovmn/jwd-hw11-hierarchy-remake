@@ -4,9 +4,9 @@ import java.util.Objects;
 
 public abstract class ElectricComputingDevice extends ElectricalAppliance {
 
-	public String operatingSystem;
-	public double displayInches;
-	public String batteryCapacity;
+	private String operatingSystem;
+	private double displayInches;
+	private String batteryCapacity;
 
 	public ElectricComputingDevice() {
 

@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public abstract class ElectricalAppliance {
 
-	public String brand;
+	private String brand;
 
 	public ElectricalAppliance() {
 
