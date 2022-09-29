@@ -43,6 +43,12 @@ public abstract class ElectricalAppliance {
 		ElectricalAppliance other = (ElectricalAppliance) obj;
 		return Objects.equals(brand, other.brand);
 	}
+
+	@Override
+	public String toString() {
+		return "ElectricalAppliance [brand=" + brand + "]";
+	}
+	
 	
 	
 

@@ -65,4 +65,12 @@ public abstract class ElectricComputingDevice extends ElectricalAppliance {
 				&& Objects.equals(operatingSystem, other.operatingSystem);
 	}
 
+	@Override
+	public String toString() {
+		return "ElectricComputingDevice [operatingSystem=" + operatingSystem + ", displayInches=" + displayInches
+				+ ", batteryCapacity=" + batteryCapacity + "]";
+	}
+	
+	
+
 }

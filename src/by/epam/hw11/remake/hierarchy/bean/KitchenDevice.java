@@ -47,4 +47,11 @@ public abstract class KitchenDevice extends ElectricalAppliance {
 		return timerManagment == other.timerManagment;
 	}
 
+	@Override
+	public String toString() {
+		return "KitchenDevice [timerManagment=" + timerManagment + "]";
+	}
+	
+	
+
 }
