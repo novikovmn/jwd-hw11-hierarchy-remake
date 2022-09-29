@@ -7,27 +7,27 @@
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_O8K50D_4Ee2sJtPh3N-iWg" sourceAnchor="479.0,0.0" targetAnchor="410.0,289.0" superClass="_O8AhwD_4Ee2sJtPh3N-iWg" subClass="_O8PyUD_4Ee2sJtPh3N-iWg">
     <modelElement href="jwd-hw11-hierarchy-remake.uml#_O1C-ID_4Ee2sJtPh3N-iWg"/>
-    <bendpoints xmi:id="_PE4w8T_4Ee2sJtPh3N-iWg" sourceY="-28" targetX="-784" targetY="27"/>
-    <bendpoints xmi:id="_PE4w8j_4Ee2sJtPh3N-iWg" sourceX="784" sourceY="-28" targetY="27"/>
+    <bendpoints xmi:id="_apV2ID_5Ee2sJtPh3N-iWg" sourceY="-28" targetX="-784" targetY="27"/>
+    <bendpoints xmi:id="_apWdMD_5Ee2sJtPh3N-iWg" sourceX="784" sourceY="-28" targetY="27"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_O8Y8QD_4Ee2sJtPh3N-iWg" sourceAnchor="971.0,116.0" targetAnchor="410.0,289.0" superClass="_O8AhwD_4Ee2sJtPh3N-iWg" subClass="_O8d0wD_4Ee2sJtPh3N-iWg">
     <modelElement href="jwd-hw11-hierarchy-remake.uml#_O1HPkD_4Ee2sJtPh3N-iWg"/>
-    <bendpoints xmi:id="_PE5YAD_4Ee2sJtPh3N-iWg" sourceX="298" targetY="465"/>
+    <bendpoints xmi:id="_apXrUD_5Ee2sJtPh3N-iWg" sourceX="298" targetY="465"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_O8m-sD_4Ee2sJtPh3N-iWg" sourceAnchor="230.0,0.0" targetAnchor="178.0,194.0" superClass="_O7p8cD_4Ee2sJtPh3N-iWg" subClass="_O8r3MD_4Ee2sJtPh3N-iWg">
     <modelElement href="jwd-hw11-hierarchy-remake.uml#_O1Ah4D_4Ee2sJtPh3N-iWg"/>
-    <bendpoints xmi:id="_PE5YAT_4Ee2sJtPh3N-iWg" sourceY="-27" targetX="-493" targetY="28"/>
-    <bendpoints xmi:id="_PE5YAj_4Ee2sJtPh3N-iWg" sourceX="493" sourceY="-27" targetY="28"/>
+    <bendpoints xmi:id="_apYSYD_5Ee2sJtPh3N-iWg" sourceY="-27" targetX="-493" targetY="28"/>
+    <bendpoints xmi:id="_apYSYT_5Ee2sJtPh3N-iWg" sourceX="493" sourceY="-27" targetY="28"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_O8m-sT_4Ee2sJtPh3N-iWg" sourceAnchor="581.0,109.0" targetAnchor="0.0,97.0" superClass="_O8r3MD_4Ee2sJtPh3N-iWg" subClass="_O7e9UD_4Ee2sJtPh3N-iWg">
     <modelElement href="jwd-hw11-hierarchy-remake.uml#_O09ekD_4Ee2sJtPh3N-iWg"/>
-    <bendpoints xmi:id="_PE4J4D_4Ee2sJtPh3N-iWg" sourceX="28" targetX="-29" targetY="112"/>
-    <bendpoints xmi:id="_PE4J4T_4Ee2sJtPh3N-iWg" sourceX="28" sourceY="-112" targetX="-29"/>
+    <bendpoints xmi:id="_apEwYD_5Ee2sJtPh3N-iWg" sourceX="28" targetX="-29" targetY="112"/>
+    <bendpoints xmi:id="_apFXcD_5Ee2sJtPh3N-iWg" sourceX="28" sourceY="-112" targetX="-29"/>
   </edges>
   <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_O8nlwD_4Ee2sJtPh3N-iWg" sourceAnchor="511.0,97.0" targetAnchor="0.0,97.0" superClass="_O8r3MD_4Ee2sJtPh3N-iWg" subClass="_O7ztcD_4Ee2sJtPh3N-iWg">
     <modelElement href="jwd-hw11-hierarchy-remake.uml#_O1EzUD_4Ee2sJtPh3N-iWg"/>
-    <bendpoints xmi:id="_PE4J4j_4Ee2sJtPh3N-iWg" sourceX="63" targetX="-29" targetY="374"/>
-    <bendpoints xmi:id="_PE4w8D_4Ee2sJtPh3N-iWg" sourceX="63" sourceY="-374" targetX="-29"/>
+    <bendpoints xmi:id="_apF-gD_5Ee2sJtPh3N-iWg" sourceX="63" targetX="-29" targetY="374"/>
+    <bendpoints xmi:id="_apF-gT_5Ee2sJtPh3N-iWg" sourceX="63" sourceY="-374" targetX="-29"/>
   </edges>
   <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_O7oHQD_4Ee2sJtPh3N-iWg" sourceConnectionVisual="_O7oHQT_4Ee2sJtPh3N-iWg" text="abstract method" item="_O7p8iD_4Ee2sJtPh3N-iWg">
     <modelElement href="jwd-hw11-hierarchy-remake.uml#_O1-yQD_4Ee2sJtPh3N-iWg"/>
